@@ -10,7 +10,7 @@ namespace MyGitSolution
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello git");
+            Console.WriteLine("Hello git 2");
             Console.ReadLine();
         }
     }
